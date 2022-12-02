@@ -1,0 +1,34 @@
+﻿  Cancellation.cpp
+  Cargo.cpp
+  Company.cpp
+  Event.cpp
+  Input.cpp
+E:\Projects\Team7_Ph2_DS\Project\Project\Input.cpp(77,6): warning C4101: 'number_of_events': unreferenced local variable
+E:\Projects\Team7_Ph2_DS\Project\Project\Input.cpp(106,6): warning C4101: 'Capacity': unreferenced local variable
+E:\Projects\Team7_Ph2_DS\Project\Project\Input.cpp(109,6): warning C4101: 'number_of_events': unreferenced local variable
+  NormalCargo.cpp
+  NormalTruck.cpp
+  Output.cpp
+  Promotion.cpp
+  Ready.cpp
+  Simulator.cpp
+  Source.cpp
+  SpecialCargo.cpp
+  SpecialTruck.cpp
+  Truck.cpp
+E:\Projects\Team7_Ph2_DS\Project\Project\Truck.cpp(250,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Projects\Team7_Ph2_DS\Project\Project\Truck.cpp(269,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VIPCargo.cpp
+  VIPTruck.cpp
+  Generating Code...
+E:\Projects\Team7_Ph2_DS\Project\Project\Simulator.cpp(180): warning C4715: 'Simulator::GetSuitableNightTruck': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Simulator.cpp(133): warning C4715: 'Simulator::GetSuitableTruck': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Company.cpp(289): warning C4715: 'Company::NoReadyCargos': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Company.cpp(298): warning C4715: 'Company::CountWaitingCargo': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Company.cpp(307): warning C4715: 'Company::CountTotalCargos': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Company.cpp(444): warning C4715: 'Company::NoExternalCheckupTrucks': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Company.cpp(549): warning C4715: 'Company::NoEmptyTrucks': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Company.cpp(558): warning C4715: 'Company::CountEmptyTrucks': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Company.cpp(659): warning C4715: 'Company::NoEmptyNightTrucks': not all control paths return a value
+E:\Projects\Team7_Ph2_DS\Project\Project\Company.cpp(668): warning C4715: 'Company::CountEmptyNightTrucks': not all control paths return a value
+  Project.vcxproj -> E:\Projects\Team7_Ph2_DS\Project\x64\Debug\Project.exe

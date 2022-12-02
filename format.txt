@@ -1,0 +1,40 @@
+in the folder named "Files" Create New Text File Called "Test" + AnyNumber
+
+File Format :-
+
+#Normal Trucks 		#Special Trucks		#VipTrucks
+
+Speed Of Each Normal Truck
+Speed Of Each Special Truck
+Speed Of Each VIP Truck
+
+Capacity Of Each Normal Truck
+Capacity Of Each Special Truck
+Capacity Of Each VIP Truck
+
+Type Of Each Normal Truck		// N if Works During Night else M
+Type Of Each Special Truck
+Type Of Each VIP Truck
+
+Repairing Time Of Normal Trucks
+Repairing Time Of Special Trucks
+Repairing Time Of VIP Trucks
+
+number Of Journey Before Checkup
+
+Auto Promotion Time
+Max Wait Time
+
+Number Of Events N
+
+N Line Of Events where
+
+Ready Event :
+R  CargoType	EventTime	cargoId		Distance 	LoadingTime	Cost
+
+Promotion Event:
+P	EventTime	cargoID		Cost
+
+Cancellation Event :
+X	EventTime	cargoID
+ 
